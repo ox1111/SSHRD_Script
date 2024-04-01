@@ -1,16 +1,12 @@
-<h1 align="center">SSH Ramdisk Script</h1>
-<p align="center">
-  <a href="https://github.com/verygenericname/SSHRD_Script/graphs/contributors" target="_blank">
-    <img src="https://img.shields.io/github/contributors/verygenericname/SSHRD_Script.svg" alt="Contributors">
-  </a>
-  <a href="https://github.com/verygenericname/SSHRD_Script/commits/main" target="_blank">
-    <img src="https://img.shields.io/github/commit-activity/w/verygenericname/SSHRD_Script.svg" alt="Commits">
-  </a>
-</p>
+## 저자 링크
 
-<p align="center">
-Create and boot a SSH ramdisk on checkm8 devices
-</p>
+https://www.reddit.com/r/jailbreak/comments/wgiye1/free_release_ssh_ramdisk_creator_for_iphones_ipad/
+
+
+
+
+# Create and boot a SSH ramdisk on checkm8 devices
+
 
 ## irecovery
 
