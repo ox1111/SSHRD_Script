@@ -12,6 +12,17 @@
 Create and boot a SSH ramdisk on checkm8 devices
 </p>
 
+## irecovery
+
+if stuck on boot, please repeat this line twice or three times
+irecovery -f iBSS.img4
+irecovery -f iBSS.img4
+
+I already did it!
+
+Thanks
+
+
 ---
 
 # Prerequsites
